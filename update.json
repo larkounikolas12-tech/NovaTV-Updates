@@ -1,9 +1,9 @@
 
 {
-  "version": "0.7.0",
-  "versionCode": 70,
+  "version": "0.7.1",
+  "versionCode": 71,
   "updateAvailable": true,
-  "downloadUrl": "https://github.com/larkounikolas12-tech/NovaTV-Updates/releases/download/v0.7.0/NovaTV-v0.7.0.apk",
-  "changelog": "Performance optimization, reduced RAM usage, faster navigation, Performance Center and OTA fixes.",
+  "downloadUrl": "https://github.com/larkounikolas12-tech/NovaTV-Updates/releases/download/v0.7.1/NovaTV-v0.7.1.apk",
+  "changelog": "OTA installer compatibility test.",
   "mandatory": false
 }
