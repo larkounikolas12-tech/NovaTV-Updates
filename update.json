@@ -1,9 +1,9 @@
 
 {
-  "version": "0.6.3",
-  "versionCode": 63,
+  "version": "0.6.4",
+  "versionCode": 64,
   "updateAvailable": true,
-  "downloadUrl": "https://github.com/larkounikolas12-tech/NovaTV-Updates/releases/download/v0.6.3/NovaTV-v0.6.3.apk",
-  "changelog": "New NovaTV OS branding, Dark and Ocean themes, custom wallpapers and UI improvements.",
+  "downloadUrl": "https://github.com/larkounikolas12-tech/NovaTV-Updates/releases/download/v0.6.4/NovaTV-v0.6.4.apk",
+  "changelog": "Added default Home Launcher support and startup integration.",
   "mandatory": false
 }
