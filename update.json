@@ -3,7 +3,7 @@
   "version": "0.6.1",
   "versionCode": 61,
   "updateAvailable": true,
-  "downloadUrl": "",
+  "downloadUrl": "https://github.com/larkounikolas12-tech/NovaTV-Updates/releases",
   "changelog": "NovaTV Update Center Test",
   "mandatory": false
 }
