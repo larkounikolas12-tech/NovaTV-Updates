@@ -1,9 +1,9 @@
 
 {
-  "version": "0.6.2",
-  "versionCode": 62,
+  "version": "0.6.3",
+  "versionCode": 63,
   "updateAvailable": true,
-  "downloadUrl": "https://github.com/larkounikolas12-tech/NovaTV-Updates/releases/download/v0.6.2/NovaTV-v0.6.2.apk",
-  "changelog": "First OTA Update - NovaTV Update Center",
+  "downloadUrl": "https://github.com/larkounikolas12-tech/NovaTV-Updates/releases/download/v0.6.3/NovaTV-v0.6.3.apk",
+  "changelog": "New NovaTV OS branding, Dark and Ocean themes, custom wallpapers and UI improvements.",
   "mandatory": false
 }
